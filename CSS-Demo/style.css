@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+}
+.backround-change{
+    background-color: blue;
+}
+#color-change-para{
+    color: gray;
+    font-size: 24px;
+}
+.testing-priority{
+    color: black;
+}
